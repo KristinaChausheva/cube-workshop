@@ -35,6 +35,7 @@ class Cube {
           throw error;
         }
         console.log('new cube is successfully stored');
+        console.log(dbFile);
       });
     });
   }
