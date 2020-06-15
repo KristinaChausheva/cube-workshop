@@ -1,14 +1,1 @@
-[
-  {
-    "id": "75ed9d13-901f-4b09-a42a-282f4a8312aa",
-    "name": "фйдсоонфйдсфн",
-    "imgUrl": "placeholder",
-    "difficulty": 0
-  },
-  {
-    "id": "a3808b47-a137-4da1-bcb5-4272a8035f88",
-    "name": "фйдсоонфйдсфн",
-    "imgUrl": "placeholder",
-    "difficulty": 0
-  }
-]
+[{"id":"75ed9d13-901f-4b09-a42a-282f4a8312aa","name":"фйдсоонфйдсфн","imgUrl":"placeholder","difficulty":0},{"id":"a3808b47-a137-4da1-bcb5-4272a8035f88","name":"фйдсоонфйдсфн","imgUrl":"placeholder","difficulty":0},{"id":"db0a888d-7bde-4c17-965c-c3939dff8971","name":"default1","description":"this is a default1 cube","imgUrl":"https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg","difficulty":3},{"id":"63e5de22-0956-490d-9c1f-8a8b6a8a550d","name":"default2","description":"this is a default2 cube","imgUrl":"https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg","difficulty":7},{"id":"75053b34-765a-4dc0-8e57-26c02837011b","name":"default2","description":"this is a default2 cube","imgUrl":"https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg","difficulty":7},{"id":"847cd5cb-f260-4944-bf75-f5f7e97c9ffe","name":"default2","description":"this is a default2 cube","imgUrl":"https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg","difficulty":7},{"id":"27302d62-1022-4f77-a2e4-f9f265fa27b1","name":"default2","description":"this is a default2 cube","imgUrl":"https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg","difficulty":7},{"id":"56bc964e-3145-4d10-b01e-bc4f68c4284b","name":"default1","imgUrl":"placeholder","difficulty":0}],"imgUrl":"https://ae01.alicdn.com/kf/HTB1CSddXRxRMKJjy0Fdq6yifFXa6/Gan-356-Air-SM-3x3-Black-Magic-cube-GAN-Air-SM-Magnetic-3x3x3-Speed-cube-gans.jpg","difficulty":7}]
